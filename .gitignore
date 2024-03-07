@@ -1,0 +1,6 @@
+.idea/
+.venv/
+.env
+report
+allure-results
+.pytest_cache
